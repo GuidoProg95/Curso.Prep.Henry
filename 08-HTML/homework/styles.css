@@ -1,0 +1,63 @@
+
+    #divClass{
+        display: flex;
+justify-content: center;
+align-items: center;
+    }
+   
+h1{
+    color: rgb(7, 13, 18);
+    font-size: 80px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+h3 {
+    font-size: 30px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+h4 {
+    font-size: 20px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+#thirdDiv{
+background-color: rgb(255, 187, 0);
+padding: 50px;
+width: 400px;
+height: 600px;
+border: 20px double ;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+flex-direction: row;
+}
+body {
+    background-image: url(https://previews.123rf.com/images/smeagorl/smeagorl1605/smeagorl160500002/57423022-ilustraci%C3%B3n-patr%C3%B3n-sin-fisuras-con-las-hamburguesas-fondo-de-pantalla-fast-food-de-trama.jpg);
+    margin-left: auto;
+     margin-right: auto;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px; display: flex;
+justify-content: center;
+align-items: center;
+
+}
+a{
+    font-size: 20px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+li{
+font-size: 40px;
+}
+img {
+width: 400px;
+}
